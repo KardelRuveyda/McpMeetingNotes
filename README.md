@@ -54,6 +54,16 @@ Uygulama aşağıdaki araçları sunar:
   curl -X POST http://localhost:5000/api/notes -d '{"title": "Sprint Planlama", "content": "Yeni sprint için görevler belirlendi.", "date": "2025-07-25"}'
   ```
 
+## ModelContextProtocol Inspector
+
+MeetingMcp, ModelContextProtocol Inspector ile uyumlu çalışmaktadır. Bu araç, MCP tabanlı uygulamaların durumunu ve işlevlerini görselleştirmek için kullanılır. Inspector sayesinde:
+
+- MCP araçlarını test edebilir ve çalıştırabilirsiniz.
+- Uygulamanın durumunu ve performansını izleyebilirsiniz.
+- Hata ayıklama ve analiz süreçlerini kolaylaştırabilirsiniz.
+
+ModelContextProtocol Inspector hakkında daha fazla bilgi için [resmi dökümantasyona](https://modelcontextprotocol.io/inspector) göz atabilirsiniz.
+
 ## Katkıda Bulunma
 
 Katkıda bulunmak için lütfen bir pull request gönderin veya bir issue açın.
