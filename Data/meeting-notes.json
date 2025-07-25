@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1",
+    "Title": "Sprint Planlama Toplantısı",
+    "Content": "25 Temmuz 2025 tarihinde gerçekleştirilen sprint planlama toplantısında, önceki sprintte tamamlanan işler gözden geçirildi. Yeni sprint için:\n- Login ekranındaki validasyon hatası düzeltilecek.\n- Bildirim sistemi test ortamında yayına alınacak.\n- Yeni onboarding süreci için ekran tasarımları tamamlanacak.\n\nGörevler dağıtıldı ve iş listesi güncellendi.",
+    "Date": "2025-07-25T10:00:00"
+  },
+  {
+    "Id": "2",
+    "Title": "Müşteri Geri Bildirim Toplantısı",
+    "Content": "ACME firmasından gelen geri bildirimler değerlendirildi:\n- Uygulamanın yüklenme süresi mobilde yavaş.\n- Raporlama ekranında tarih filtreleri düzgün çalışmıyor.\n- Kullanıcılar onboarding sürecini tamamlayamadan çıkıyor.\n\nTasarım ve backend ekiplerine ilgili aksiyonlar atandı.",
+    "Date": "2025-07-24T15:00:00"
+  },
+  {
+    "Id": "3",
+    "Title": "Demo Hazırlık Toplantısı",
+    "Content": "Yarınki yatırımcı sunumu için hazırlık yapıldı.\n- Canlı demo akışı test edildi.\n- Edge case senaryoları simüle edildi.\n- Sunum sırası: Kardel (Giriş) → Burak (Ürün Tanıtımı) → Elif (Teknik Mimarî)\n\nDemo ortamı staging sunucusuna taşındı, veriler güncellendi.",
+    "Date": "2025-07-23T13:30:00"
+  },
+  {
+    "Id": "4",
+    "Title": "Retrospektif Toplantısı",
+    "Content": "Son sprint değerlendirildi. Ekip üyeleri aşağıdaki maddeleri paylaştı:\n👍 Neler iyi gitti: Jira board kullanımı, kod incelemeleri.\n👎 Neler kötü gitti: QA süreçleri sıkıştı, test ortamı geç açıldı.\n🔧 Aksiyonlar:\n- QA otomasyonu yeniden gözden geçirilecek.\n- QA ortamı pazartesiye hazır hâle getirilecek.",
+    "Date": "2025-07-22T17:00:00"
+  }
+]
