@@ -1,6 +1,6 @@
-# MeetingMcp
+# McpMeetingNotes
 
-MeetingMcp, toplantı notlarını yönetmek için geliştirilmiş bir uygulamadır. Bu uygulama, toplantı notlarını ekleme, listeleme, belirli bir ID veya tarihe göre getirme gibi işlevler sunar.
+McpMeetingNotes, toplantı notlarını yönetmek için geliştirilmiş bir uygulamadır. Bu uygulama, toplantı notlarını ekleme, listeleme, belirli bir ID veya tarihe göre getirme gibi işlevler sunar.
 
 ## Özellikler
 
